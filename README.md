@@ -20,7 +20,7 @@ This library is based on FPC1020 library for Arduino.
 
 # Example
 ```sh
- ~$ python example.py
+ ~$ python demo.py
  ```
  
   [fpc1020]: https://raw.githubusercontent.com/sreckod/pyFPC1020/master/images/fpc1020_pins.jpg
